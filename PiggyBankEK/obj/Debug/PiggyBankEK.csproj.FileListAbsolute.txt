@@ -1,0 +1,10 @@
+C:\Users\ekocaadam\source\repos\PiggyBankEK\bin\Debug\PiggyBankEK.exe.config
+C:\Users\ekocaadam\source\repos\PiggyBankEK\bin\Debug\PiggyBankEK.exe
+C:\Users\ekocaadam\source\repos\PiggyBankEK\bin\Debug\PiggyBankEK.pdb
+C:\Users\ekocaadam\source\repos\PiggyBankEK\obj\Debug\PiggyBankEK.csproj.AssemblyReference.cache
+C:\Users\ekocaadam\source\repos\PiggyBankEK\obj\Debug\PiggyBankEK.KumbaraForm.resources
+C:\Users\ekocaadam\source\repos\PiggyBankEK\obj\Debug\PiggyBankEK.Properties.Resources.resources
+C:\Users\ekocaadam\source\repos\PiggyBankEK\obj\Debug\PiggyBankEK.csproj.GenerateResource.cache
+C:\Users\ekocaadam\source\repos\PiggyBankEK\obj\Debug\PiggyBankEK.csproj.CoreCompileInputs.cache
+C:\Users\ekocaadam\source\repos\PiggyBankEK\obj\Debug\PiggyBankEK.exe
+C:\Users\ekocaadam\source\repos\PiggyBankEK\obj\Debug\PiggyBankEK.pdb
